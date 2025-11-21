@@ -1,8 +1,8 @@
 #Projekt
-1.	 Što je Visual Studio Code i za što se najčešće koristi?
+#1.	 Što je Visual Studio Code i za što se najčešće koristi?
 VS Code – integriran softver koji služi za debugging, dovršavanje koda, kontrolu verzija s gitom itd. Najčešće se koristi za web razvoj te za razvoj aplikacija i koda.
-2. Kako se zove panel u kojem vidiš sve datoteke i mape svog projekta?
-Panel se zove Explorer
+#2. Kako se zove panel u kojem vidiš sve datoteke i mape svog projekta?
+P#anel se zove Explorer
 3. Kako možeš instalirati ekstenzije u VS Codeu i čemu one služe?
 Ekstenzije služe za dodavanje funkcionalnosti. Dodajemo ih klikom na Extension panel te upisom naziva extenzije
 4. Kako otvoriti postojeći projekt ili mapu u VS Code-u?
